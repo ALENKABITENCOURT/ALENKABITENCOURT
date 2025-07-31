@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Alenka (ela/dela)
 
-<!--
-**ALENKABITENCOURT/ALENKABITENCOURT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **estudante independente em Análise de Dados** e estou construindo minha carreira na área.  
+Atualmente estudo **Python, SQL e Power BI** para transformar dados em insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+💻 **Linguagens:** Python | SQL  
+📊 **Análise e Visualização:** Power BI | Excel  
+🗄 **Bancos de Dados:** SQLite | MySQL (em aprendizado)  
+☁ **Ferramentas:** Google Colab | Git & GitHub
+
+---
+
+## 🌱 O que estou aprendendo
+- Python para análise de dados  
+- SQL para consultas e bancos de dados  
+- Power BI para dashboards interativos
+
+---
+
+## 📚 O que eu gosto de estudar
+- Análise de Dados e Visualização  
+- Machine Learning (começando) 
+- Filmes e cinema — adoro aprender sobre histórias, diretores e gêneros!
+- História — adoro estudar a Ditadura Civil-Militar no Brasil para entender nosso passado, presente e evitar erros futuros.
+
+## 📫 Vamos nos conectar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/alenka-bitencourt/)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:alenkabitencourt@gmail.com)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALENKABITENCOURT&show_icons=true&theme=radical)
+
+---
