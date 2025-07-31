@@ -26,6 +26,8 @@ Atualmente estudo **Python, SQL e Power BI** para transformar dados em insights.
 - Filmes e cinema — adoro aprender sobre histórias, diretores e gêneros!
 - História — adoro estudar a Ditadura Civil-Militar no Brasil para entender nosso passado, presente e evitar erros futuros.
 
+---
+
 ## 📫 Vamos nos conectar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/alenka-bitencourt/)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:alenkabitencourt@gmail.com)
