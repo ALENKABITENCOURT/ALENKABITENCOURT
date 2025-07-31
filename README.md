@@ -9,7 +9,7 @@ Estou construindo minha carreira na área e estudando **Python, SQL e Power BI**
 ## 🚀 Tecnologias e Ferramentas
 💻 **Linguagens:** Python | SQL  
 📊 **Análise e Visualização:** Power BI | Excel  
-🗄 **Bancos de Dados:** SQLite | MySQL 
+🗄 **Bancos de Dados:** SQLite | MySQL          
 ☁ **Ferramentas:** Google Colab | Git & GitHub
 
 ---
