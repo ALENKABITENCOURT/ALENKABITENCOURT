@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou a Alenka (ela/dela)
 
-Sou **estudante independente em Análise de Dados** e atualmente estou cursando **Tecnólogo em Processos Gerenciais na UNIJORGE**.
+Estou no início da minha empolgante jornada como estudante de **Análise de Dados**. Combinando o aprendizado autodidata com o conhecimento de Processos Gerenciais da UNIJORGE, estou construindo uma base sólida para uma carreira focada em transformar dados em insights.
 
-Estou construindo minha carreira na área e estudando **Python, SQL e Power BI** para transformar dados em insights.
+Atualmente, estou me dedicando a dominar as ferramentas essenciais: Python, para me aprofundar em análise de dados, SQL, para extrair e manipular informações, e Power BI, para criar visualizações que contam uma história. Estou construindo meu futuro nesta área, buscando oportunidades para enfrentar os desafios e transformar dados em soluções reais. 
 
 ---
 
