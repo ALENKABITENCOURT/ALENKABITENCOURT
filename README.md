@@ -25,7 +25,7 @@ Atualmente, estou me dedicando a dominar as ferramentas essenciais: Python, para
 - Análise de Dados e Visualização  
 - Machine Learning (começando) 
 - Filmes e cinema: adoro aprender sobre histórias, diretores e gêneros!
-- História: adoro estudar a Ditadura Civil-Militar no Brasil para entender nosso passado, presente e evitar erros futuros.
+- História: adoro estudar a Ditadura Civil-Militar no Brasil.
 
 ---
 
